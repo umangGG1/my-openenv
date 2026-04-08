@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PROP001", "address": "14 Elmwood Drive", "neighborhood": "Oakwood",
+    "type": "house", "bedrooms": 3, "bathrooms": 2.0, "price": 425000, "sqft": 1850,
+    "school_rating": 8, "available": true, "year_built": 2005,
+    "features": ["garage", "backyard", "updated_kitchen", "hardwood_floors"],
+    "available_dates": ["2026-04-12", "2026-04-14", "2026-04-17"]
+  },
+  {
+    "id": "PROP002", "address": "87 Birchwood Lane", "neighborhood": "Oakwood",
+    "type": "house", "bedrooms": 4, "bathrooms": 2.5, "price": 489000, "sqft": 2200,
+    "school_rating": 8, "available": true, "year_built": 2010,
+    "features": ["garage", "deck", "finished_basement", "new_roof"],
+    "available_dates": ["2026-04-11", "2026-04-13", "2026-04-16"]
+  },
+  {
+    "id": "PROP003", "address": "22 Cedar Court", "neighborhood": "Oakwood",
+    "type": "house", "bedrooms": 3, "bathrooms": 1.5, "price": 398000, "sqft": 1650,
+    "school_rating": 7, "available": true, "year_built": 1998,
+    "features": ["backyard", "renovated_bath", "new_appliances"],
+    "available_dates": ["2026-04-12", "2026-04-15", "2026-04-18"]
+  },
+  {
+    "id": "PROP004", "address": "55 Oakridge Boulevard", "neighborhood": "Oakwood",
+    "type": "condo", "bedrooms": 2, "bathrooms": 2.0, "price": 320000, "sqft": 1100,
+    "school_rating": 8, "available": true, "year_built": 2015,
+    "features": ["gym", "rooftop_deck", "parking", "doorman"],
+    "available_dates": ["2026-04-10", "2026-04-13", "2026-04-17"]
+  },
+  {
+    "id": "PROP005", "address": "9 Maple Circle", "neighborhood": "Oakwood",
+    "type": "house", "bedrooms": 5, "bathrooms": 3.0, "price": 515000, "sqft": 2700,
+    "school_rating": 9, "available": true, "year_built": 2012,
+    "features": ["pool", "3_car_garage", "home_office", "master_suite"],
+    "available_dates": ["2026-04-14", "2026-04-16", "2026-04-19"]
+  },
+  {
+    "id": "PROP006", "address": "31 Pine Avenue", "neighborhood": "Oakwood",
+    "type": "house", "bedrooms": 3, "bathrooms": 2.0, "price": 445000, "sqft": 1950,
+    "school_rating": 8, "available": false, "year_built": 2008,
+    "features": ["garage", "sunroom", "updated_kitchen"],
+    "available_dates": []
+  },
+  {
+    "id": "PROP007", "address": "100 Willow Way", "neighborhood": "Oakwood",
+    "type": "house", "bedrooms": 4, "bathrooms": 2.0, "price": 462000, "sqft": 2050,
+    "school_rating": 7, "available": true, "year_built": 2003,
+    "features": ["garage", "fenced_yard", "fireplace", "new_hvac"],
+    "available_dates": ["2026-04-11", "2026-04-14", "2026-04-18"]
+  },
+  {
+    "id": "PROP008", "address": "76 Aspen Road", "neighborhood": "Oakwood",
+    "type": "condo", "bedrooms": 3, "bathrooms": 2.0, "price": 375000, "sqft": 1400,
+    "school_rating": 8, "available": true, "year_built": 2018,
+    "features": ["balcony", "gym", "concierge", "pet_friendly"],
+    "available_dates": ["2026-04-12", "2026-04-15", "2026-04-17"]
+  },
+  {
+    "id": "PROP009", "address": "43 Hazel Street", "neighborhood": "Oakwood",
+    "type": "house", "bedrooms": 2, "bathrooms": 1.0, "price": 360000, "sqft": 1200,
+    "school_rating": 7, "available": true, "year_built": 1992,
+    "features": ["large_lot", "detached_garage", "basement"],
+    "available_dates": ["2026-04-13", "2026-04-16", "2026-04-19"]
+  },
+  {
+    "id": "PROP010", "address": "18 Poplar Place", "neighborhood": "Oakwood",
+    "type": "house", "bedrooms": 4, "bathrooms": 3.0, "price": 499000, "sqft": 2350,
+    "school_rating": 9, "available": true, "year_built": 2016,
+    "features": ["smart_home", "solar_panels", "ev_charger", "open_floor_plan"],
+    "available_dates": ["2026-04-11", "2026-04-13", "2026-04-16"]
+  },
+  {
+    "id": "PROP011", "address": "5 Riverside Drive", "neighborhood": "Riverdale",
+    "type": "house", "bedrooms": 4, "bathrooms": 3.5, "price": 675000, "sqft": 3100,
+    "school_rating": 9, "available": true, "year_built": 2014,
+    "features": ["pool", "home_theater", "chef_kitchen", "3_car_garage"],
+    "available_dates": ["2026-04-12", "2026-04-15", "2026-04-18"]
+  },
+  {
+    "id": "PROP012", "address": "220 Waterfront Blvd", "neighborhood": "Riverdale",
+    "type": "house", "bedrooms": 5, "bathrooms": 4.0, "price": 795000, "sqft": 4000,
+    "school_rating": 10, "available": true, "year_built": 2019,
+    "features": ["waterfront", "dock", "heated_pool", "wine_cellar", "smart_home"],
+    "available_dates": ["2026-04-14", "2026-04-17", "2026-04-20"]
+  },
+  {
+    "id": "PROP013", "address": "88 Heritage Lane", "neighborhood": "Riverdale",
+    "type": "house", "bedrooms": 3, "bathrooms": 2.5, "price": 580000, "sqft": 2400,
+    "school_rating": 10, "available": true, "year_built": 2011,
+    "features": ["gourmet_kitchen", "master_suite", "home_office", "3_car_garage"],
+    "available_dates": ["2026-04-11", "2026-04-14", "2026-04-17"]
+  },
+  {
+    "id": "PROP014", "address": "15 Prestige Court", "neighborhood": "Riverdale",
+    "type": "condo", "bedrooms": 3, "bathrooms": 3.0, "price": 625000, "sqft": 2000,
+    "school_rating": 9, "available": true, "year_built": 2020,
+    "features": ["concierge", "gym", "rooftop_pool", "valet_parking", "city_views"],
+    "available_dates": ["2026-04-10", "2026-04-13", "2026-04-16"]
+  },
+  {
+    "id": "PROP015", "address": "62 Clearwater Circle", "neighborhood": "Riverdale",
+    "type": "house", "bedrooms": 4, "bathrooms": 3.0, "price": 710000, "sqft": 3300,
+    "school_rating": 10, "available": false, "year_built": 2017,
+    "features": ["pool", "outdoor_kitchen", "home_gym", "wine_room"],
+    "available_dates": []
+  },
+  {
+    "id": "PROP016", "address": "39 Summit Ridge", "neighborhood": "Riverdale",
+    "type": "house", "bedrooms": 5, "bathrooms": 4.5, "price": 749000, "sqft": 3800,
+    "school_rating": 9, "available": true, "year_built": 2015,
+    "features": ["panoramic_views", "pool", "5_bedroom", "home_office", "media_room"],
+    "available_dates": ["2026-04-12", "2026-04-15", "2026-04-18"]
+  },
+  {
+    "id": "PROP017", "address": "7 Manor Way", "neighborhood": "Riverdale",
+    "type": "house", "bedrooms": 4, "bathrooms": 3.0, "price": 659000, "sqft": 2900,
+    "school_rating": 10, "available": true, "year_built": 2013,
+    "features": ["chef_kitchen", "heated_floors", "mudroom", "3_car_garage"],
+    "available_dates": ["2026-04-11", "2026-04-14", "2026-04-19"]
+  },
+  {
+    "id": "PROP018", "address": "90 Elm Court", "neighborhood": "Riverdale",
+    "type": "condo", "bedrooms": 2, "bathrooms": 2.0, "price": 545000, "sqft": 1600,
+    "school_rating": 9, "available": true, "year_built": 2021,
+    "features": ["luxury_finishes", "balcony", "gym", "doorman", "storage"],
+    "available_dates": ["2026-04-13", "2026-04-16", "2026-04-18"]
+  },
+  {
+    "id": "PROP019", "address": "28 Bellview Drive", "neighborhood": "Riverdale",
+    "type": "house", "bedrooms": 3, "bathrooms": 2.5, "price": 599000, "sqft": 2200,
+    "school_rating": 10, "available": true, "year_built": 2009,
+    "features": ["renovated_2023", "open_floor_plan", "backyard_oasis", "3_car_garage"],
+    "available_dates": ["2026-04-12", "2026-04-15", "2026-04-17"]
+  },
+  {
+    "id": "PROP020", "address": "11 Magnolia Park", "neighborhood": "Riverdale",
+    "type": "house", "bedrooms": 6, "bathrooms": 5.0, "price": 820000, "sqft": 4500,
+    "school_rating": 10, "available": true, "year_built": 2022,
+    "features": ["new_construction", "pool", "home_theater", "gym", "smart_home"],
+    "available_dates": ["2026-04-14", "2026-04-17", "2026-04-20"]
+  },
+  {
+    "id": "PROP021", "address": "301 Chestnut Street", "neighborhood": "Maplewood",
+    "type": "house", "bedrooms": 3, "bathrooms": 1.5, "price": 289000, "sqft": 1400,
+    "school_rating": 6, "available": true, "year_built": 1988,
+    "features": ["large_lot", "detached_garage", "new_windows"],
+    "available_dates": ["2026-04-10", "2026-04-13", "2026-04-16"]
+  },
+  {
+    "id": "PROP022", "address": "45 Sycamore Street", "neighborhood": "Maplewood",
+    "type": "house", "bedrooms": 4, "bathrooms": 2.0, "price": 335000, "sqft": 1750,
+    "school_rating": 5, "available": true, "year_built": 1995,
+    "features": ["garage", "basement", "backyard"],
+    "available_dates": ["2026-04-11", "2026-04-14", "2026-04-17"]
+  },
+  {
+    "id": "PROP023", "address": "18 Walnut Grove", "neighborhood": "Maplewood",
+    "type": "house", "bedrooms": 2, "bathrooms": 1.0, "price": 225000, "sqft": 1050,
+    "school_rating": 6, "available": true, "year_built": 1979,
+    "features": ["starter_home", "large_backyard", "driveway"],
+    "available_dates": ["2026-04-12", "2026-04-15", "2026-04-18"]
+  },
+  {
+    "id": "PROP024", "address": "77 Locust Avenue", "neighborhood": "Maplewood",
+    "type": "condo", "bedrooms": 2, "bathrooms": 1.5, "price": 210000, "sqft": 950,
+    "school_rating": 5, "available": true, "year_built": 2001,
+    "features": ["parking", "laundry_in_unit", "patio"],
+    "available_dates": ["2026-04-10", "2026-04-13", "2026-04-17"]
+  },
+  {
+    "id": "PROP025", "address": "52 Spruce Court", "neighborhood": "Maplewood",
+    "type": "house", "bedrooms": 3, "bathrooms": 2.0, "price": 310000, "sqft": 1550,
+    "school_rating": 7, "available": true, "year_built": 2000,
+    "features": ["renovated_kitchen", "new_hvac", "fenced_yard"],
+    "available_dates": ["2026-04-11", "2026-04-14", "2026-04-16"]
+  },
+  {
+    "id": "PROP026", "address": "9 Hickory Hill", "neighborhood": "Maplewood",
+    "type": "house", "bedrooms": 3, "bathrooms": 1.5, "price": 274000, "sqft": 1300,
+    "school_rating": 6, "available": true, "year_built": 1985,
+    "features": ["large_lot", "workshop", "mature_trees"],
+    "available_dates": ["2026-04-12", "2026-04-15", "2026-04-19"]
+  },
+  {
+    "id": "PROP027", "address": "63 Mulberry Lane", "neighborhood": "Maplewood",
+    "type": "house", "bedrooms": 4, "bathrooms": 2.5, "price": 365000, "sqft": 1900,
+    "school_rating": 7, "available": true, "year_built": 2004,
+    "features": ["garage", "deck", "finished_basement"],
+    "available_dates": ["2026-04-11", "2026-04-13", "2026-04-17"]
+  },
+  {
+    "id": "PROP028", "address": "200 Magnolia Court", "neighborhood": "Maplewood",
+    "type": "condo", "bedrooms": 3, "bathrooms": 2.0, "price": 255000, "sqft": 1200,
+    "school_rating": 6, "available": true, "year_built": 2008,
+    "features": ["elevator", "parking", "balcony", "storage"],
+    "available_dates": ["2026-04-10", "2026-04-14", "2026-04-18"]
+  },
+  {
+    "id": "PROP029", "address": "33 Cottonwood Way", "neighborhood": "Maplewood",
+    "type": "house", "bedrooms": 2, "bathrooms": 1.0, "price": 198000, "sqft": 980,
+    "school_rating": 5, "available": true, "year_built": 1975,
+    "features": ["investment_opportunity", "large_lot", "detached_garage"],
+    "available_dates": ["2026-04-11", "2026-04-13", "2026-04-16"]
+  },
+  {
+    "id": "PROP030", "address": "88 Rosewood Circle", "neighborhood": "Maplewood",
+    "type": "house", "bedrooms": 3, "bathrooms": 2.0, "price": 349000, "sqft": 1600,
+    "school_rating": 7, "available": false, "year_built": 2007,
+    "features": ["updated_bath", "new_roof", "backyard"],
+    "available_dates": []
+  },
+  {
+    "id": "PROP031", "address": "1 Lakeview Terrace", "neighborhood": "Lakeside",
+    "type": "house", "bedrooms": 3, "bathrooms": 2.0, "price": 480000, "sqft": 2000,
+    "school_rating": 8, "available": true, "year_built": 2006,
+    "features": ["lake_access", "dock", "screened_porch", "fireplace"],
+    "available_dates": ["2026-04-12", "2026-04-15", "2026-04-18"]
+  },
+  {
+    "id": "PROP032", "address": "47 Shoreline Drive", "neighborhood": "Lakeside",
+    "type": "house", "bedrooms": 4, "bathrooms": 3.0, "price": 595000, "sqft": 2700,
+    "school_rating": 8, "available": true, "year_built": 2013,
+    "features": ["waterfront", "boat_garage", "outdoor_kitchen", "deck"],
+    "available_dates": ["2026-04-11", "2026-04-14", "2026-04-17"]
+  },
+  {
+    "id": "PROP033", "address": "19 Marina Boulevard", "neighborhood": "Lakeside",
+    "type": "condo", "bedrooms": 2, "bathrooms": 2.0, "price": 385000, "sqft": 1250,
+    "school_rating": 7, "available": true, "year_built": 2016,
+    "features": ["marina_views", "gym", "rooftop_deck", "parking"],
+    "available_dates": ["2026-04-10", "2026-04-13", "2026-04-16"]
+  },
+  {
+    "id": "PROP034", "address": "88 Cove Road", "neighborhood": "Lakeside",
+    "type": "house", "bedrooms": 3, "bathrooms": 2.5, "price": 435000, "sqft": 1900,
+    "school_rating": 8, "available": true, "year_built": 2009,
+    "features": ["lake_views", "kayak_storage", "deck", "fireplace"],
+    "available_dates": ["2026-04-12", "2026-04-15", "2026-04-19"]
+  },
+  {
+    "id": "PROP035", "address": "5 Harborview Lane", "neighborhood": "Lakeside",
+    "type": "house", "bedrooms": 5, "bathrooms": 4.0, "price": 650000, "sqft": 3400,
+    "school_rating": 9, "available": true, "year_built": 2018,
+    "features": ["waterfront", "pool", "home_gym", "smart_home", "dock"],
+    "available_dates": ["2026-04-14", "2026-04-17", "2026-04-20"]
+  },
+  {
+    "id": "PROP036", "address": "72 Bayview Road", "neighborhood": "Lakeside",
+    "type": "house", "bedrooms": 3, "bathrooms": 2.0, "price": 399000, "sqft": 1750,
+    "school_rating": 7, "available": true, "year_built": 2002,
+    "features": ["lake_access", "garage", "sunroom", "updated_kitchen"],
+    "available_dates": ["2026-04-11", "2026-04-14", "2026-04-17"]
+  },
+  {
+    "id": "PROP037", "address": "30 Inlet Court", "neighborhood": "Lakeside",
+    "type": "condo", "bedrooms": 3, "bathrooms": 2.0, "price": 445000, "sqft": 1500,
+    "school_rating": 8, "available": true, "year_built": 2019,
+    "features": ["water_views", "gym", "concierge", "rooftop_access"],
+    "available_dates": ["2026-04-12", "2026-04-16", "2026-04-18"]
+  },
+  {
+    "id": "PROP038", "address": "14 Ripple Way", "neighborhood": "Lakeside",
+    "type": "house", "bedrooms": 4, "bathrooms": 2.5, "price": 530000, "sqft": 2450,
+    "school_rating": 8, "available": true, "year_built": 2011,
+    "features": ["lake_access", "deck", "garage", "finished_basement"],
+    "available_dates": ["2026-04-13", "2026-04-16", "2026-04-19"]
+  },
+  {
+    "id": "PROP039", "address": "55 Driftwood Circle", "neighborhood": "Lakeside",
+    "type": "house", "bedrooms": 2, "bathrooms": 1.5, "price": 315000, "sqft": 1100,
+    "school_rating": 7, "available": true, "year_built": 1999,
+    "features": ["lake_views", "large_lot", "detached_garage"],
+    "available_dates": ["2026-04-10", "2026-04-13", "2026-04-17"]
+  },
+  {
+    "id": "PROP040", "address": "8 Tide Drive", "neighborhood": "Lakeside",
+    "type": "house", "bedrooms": 4, "bathrooms": 3.0, "price": 575000, "sqft": 2600,
+    "school_rating": 9, "available": false, "year_built": 2014,
+    "features": ["waterfront", "pool", "3_car_garage", "chef_kitchen"],
+    "available_dates": []
+  }
+]

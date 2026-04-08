@@ -1,0 +1,38 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# All rights reserved.
+#
+# This source code is licensed under the BSD-style license found in the
+# LICENSE file in the root directory of this source tree.
+
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openenv-realestate_cs"
+version = "0.1.0"
+description = "Real Estate Customer Service RL Environment with Fair Housing Compliance"
+requires-python = ">=3.10"
+dependencies = [
+    "openenv-core[core]>=0.2.2",
+    "huggingface_hub>=0.20.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-cov>=4.0.0",
+]
+
+[project.scripts]
+# Server entry point - enables running via: uv run --project . server
+# or: python -m realestate_cs.server.app
+server = "realestate_cs.server.app:main"
+
+[tool.setuptools]
+include-package-data = true
+packages = ["realestate_cs", "realestate_cs.server", "realestate_cs.server.data"]
+package-dir = { "realestate_cs" = ".", "realestate_cs.server" = "server", "realestate_cs.server.data" = "server/data" }
+
+[tool.setuptools.package-data]
+"realestate_cs.server" = ["data/*.json"]
